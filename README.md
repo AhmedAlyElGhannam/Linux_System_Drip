@@ -13,7 +13,7 @@ This will be a summary of how I made the drippiest drip for my terminal.
    sudo gedit /usr/bin/neofetch
    ``
    
-3. Remove any of the existing OS's logos and put L-Drago SIZE=50 in its place. I removed Red Star just because it fits L-Drago's aesthetics. Do not forget to save before exiting.
+3. Remove any of the existing OS's logos and put L-Drago SIZE=60 in its place. I removed Red Star just because it fits L-Drago's aesthetics. Do not forget to save before exiting.
 
 4. Open neofetch's config file
    
