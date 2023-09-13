@@ -57,5 +57,6 @@ This will be a summary of how I made the drippiest drip for my terminal.
    source ~/.bashrc
    ``
    
-9. Profit! \
+9. Profit!
+    
     ![](drip.png)
