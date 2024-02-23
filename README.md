@@ -1,4 +1,43 @@
-# Neofetch_Terminal_Drip
+# Linux Drip Setup Speedrun
+Yo! Wussup muh daug! Yo Linux system be bussin with these nibbas down below. Check dem out!
+
+
+## Gnome Extensions
+1. Install Chrome from the url:
+   ```
+   https://www.google.com/chrome/next-steps.html?statcb=1&installdataindex=empty&defaultbrowser=0&brand=JJTC&gad_source=1&gclid=Cj0KCQiAoeGuBhCBARIsAGfKY7xJBmvs0lvPbf3VUiwhf-RCEjnlJE3HGZkCRTpVtfpDRpTWIy6wPX0aAt5aEALw_wcB&gclsrc=aw.ds
+   ```
+   
+1. Enable Gnome Extention Plugin in Chrome + Install essential shit:
+   ```
+   https://chromewebstore.google.com/detail/gnome-shell-integration/gphhapmejobijbbhgpjhcjognlahblep
+   ```
+   ```
+   sudo apt install chrome-gnome-shell
+   ```
+   
+1. Go to ![Gnome Shell Extensions website](https://extensions.gnome.org/) and set up the following stuff:
+   1. Dash to Dock.
+   1. Blur My Shell.
+
+1. Do not forgot to install `Gnome Extension Manager` from Ubuntu Store.
+
+
+## Papirus Icon Pack
+1. Run this:
+   ```
+   sudo add-apt-repository ppa:papirus/papirus
+   ```
+
+1. Install that:
+   ```
+   sudo apt update && sudo apt install papirus-icon-theme
+   ```
+
+1. In order to change icon pack, install `Gnome Tweaks` from Ubuntu Store.
+
+
+## Neofetch Terminal Drip
 This will be a summary of how I made the drippiest drip for my terminal.
 
 1. Install neofetch
